@@ -1,0 +1,105 @@
+{
+  "shortDescription": "Test your animal knowledge with this fun quiz!",
+  "questions": [
+    {
+      "question": "What is the largest land animal?",
+      "answers": ["Elephant", "Giraffe", "Rhino"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which bird can't fly?",
+      "answers": ["Penguin", "Eagle", "Sparrow"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What animal is known as the 'King of the Jungle'?",
+      "answers": ["Lion", "Tiger", "Cheetah"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the fastest land animal?",
+      "answers": ["Cheetah", "Lion", "Tiger"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which animal is the largest mammal?",
+      "answers": ["Blue whale", "Elephant", "Giraffe"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What animal is known for changing colors?",
+      "answers": ["Chameleon", "Gecko", "Frog"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What animal has a long neck and spots?",
+      "answers": ["Giraffe", "Leopard", "Zebra"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which bird is known for its colorful feathers?",
+      "answers": ["Peacock", "Ostrich", "Pigeon"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which animal is known for having a pouch?",
+      "answers": ["Kangaroo", "Koala", "Wombat"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the tallest animal?",
+      "answers": ["Giraffe", "Elephant", "Ostrich"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What animal is known for its big ears?",
+      "answers": ["Elephant", "Rabbit", "Fennec fox"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What animal has a trunk?",
+      "answers": ["Elephant", "Rhino", "Hippo"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the only flying mammal?",
+      "answers": ["Bat", "Bird", "Squirrel"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What animal is known for its black and white stripes?",
+      "answers": ["Zebra", "Tiger", "Skunk"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which animal is known as man's best friend?",
+      "answers": ["Dog", "Cat", "Horse"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What animal is famous for building dams?",
+      "answers": ["Beaver", "Otter", "Rabbit"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which animal is the largest bird?",
+      "answers": ["Ostrich", "Eagle", "Swan"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which animal is known for having a mane?",
+      "answers": ["Lion", "Horse", "Tiger"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the slowest land animal?",
+      "answers": ["Sloth", "Tortoise", "Snail"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What animal lives in a hive?",
+      "answers": ["Bee", "Ant", "Spider"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
